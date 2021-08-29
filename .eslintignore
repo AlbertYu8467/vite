@@ -1,4 +1,5 @@
 
+!.eslintrc.js
 *.sh
 node_modules
 *.md
